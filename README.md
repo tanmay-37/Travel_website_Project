@@ -63,7 +63,7 @@ Open `dist/index.html` in your preferred web browser to view the website.
 ![image](https://github.com/user-attachments/assets/bea56750-22b1-4f08-af05-c5fb5832f33c)
 ![image](https://github.com/user-attachments/assets/10430cae-4564-46e4-96fd-561f27a86ab2)
 
-# Samll Demonstration
+# Small Demonstration
 
 
 https://github.com/user-attachments/assets/15a26b84-3007-4b64-b127-cb9dd638eba1
